@@ -1,6 +1,17 @@
 # 💫 About Me:
 I am a Software Engineer focused on building scalable, secure, and high-performance systems. My approach is practical: I choose the right tool for the job to deliver software that works reliably under load.
 
+Backend Engineering:
+
+My primary expertise lies in architecting robust, distributed backends. I have deep experience building high-concurrency services using Go, Rust, and Zig, as well as enterprise-grade APIs with Python, Java, and C#. I focus on performance, database optimization, and scalable architecture.
+
+Frontend & Mobile Development:
+
+I build polished, responsive user interfaces across web and mobile. I am proficient in the modern JavaScript ecosystem (React, Vue, Svelte) for the web and specialize in cross-platform mobile architecture using Kotlin Multiplatform (KMP) and Flutter to deliver native-quality experiences efficiently.
+
+DevOps & Infrastructure:
+
+I bridge the gap between code and deployment. With a background in Pentesting and DevSecOps, I design systems that are secure by default. I manage containerized environments (Kubernetes), automate CI/CD pipelines, and implement deep observability to ensure system reliability.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hassan-alkuheli/) 
