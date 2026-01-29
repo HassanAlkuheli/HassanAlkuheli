@@ -39,10 +39,11 @@ DevOps & Infrastructure I manage the full deployment lifecycle with a focus on s
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
 ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white)
-![Auxm](https://img.shields.io/badge/Auxm-%23000000.svg?style=for-the-badge&logo=go&logoColor=white)
-![Chi](https://img.shields.io/badge/Chi-%23000000.svg?style=for-the-badge&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-%23000000.svg?style=for-the-badge&logo=go&logoColor=white)
-![Zap](https://img.shields.io/badge/Zap-%23000000.svg?style=for-the-badge&logo=go&logoColor=white)
+![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Chi](https://img.shields.io/badge/Chi-00ADD8?style=for-the-badge&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logoColor=white)
+![Zap](https://img.shields.io/badge/Zap-%23F7A41D?style=for-the-badge&logoColor=white)
 
 
 ---
