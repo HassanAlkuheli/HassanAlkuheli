@@ -1,11 +1,19 @@
 # About Me:
-I am a Software Engineer focused on building high-performance systems and user-centric products. I prioritize measurable efficiency, choosing technologies that ensure reliability and scalability under heavy production loads.
-
-Backend Engineering I architect high-concurrency systems and secure APIs, such as the Zig and Rust-driven media pipeline for Burhan. By utilizing event-driven architectures with RabbitMQ and MinIO, I’ve engineered systems capable of processing large-scale media uploads with zero data loss, ensuring 99.9% system availability even during high-throughput peaks.
-
-Frontend & Mobile Development I specialize in building responsive, localized interfaces and cross-platform mobile applications. At Techgains, I optimized state management in Flutter to decrease workout logging time, while at Thalatha, I integrated AR visualization into e-commerce stores. These optimizations directly improved user retention and reduced product return rates for merchants.
-
-DevOps & Infrastructure I manage the full deployment lifecycle with a focus on security and observability. For BeeBoard and Wavvy, I implemented CI/CD pipelines and hardened backends against critical vulnerabilities (SQLi/XSS), reducing security exposure by 95%. I leverage Kubernetes and observability stacks (LGTM) to ensure infrastructure remains stable and transparent.
+CTO at Mudawwan. I build production systems where backend performance, infrastructure reliability, and frontend polish all need to be measurable.
+Backend
+• Binance AMG: HFT engine at 20K trades/sec; NumPy backtester 3x faster. Earlier: transformer NLP pipeline turning Telegram signals into live orders at 98% accuracy, sub-ms latency.
+• Burhan: Zero-loss media pipeline in Zig + Rust + RabbitMQ + MinIO at 99.9% availability. Full Zero-to-One AI SaaS converting 2D images to AR-ready 3D models for Salla.
+• SIT: Led BeeBoard end-to-end; salon-marketplace MVP delivered 3 weeks early, hardened against SQLi/XSS/CSRF for ~95% lower security exposure.
+• Nil Protocol: Full-stack DeFi vault on Arbitrum Sepolia (Solidity + Rust/Axum). 12/12 tests, sub-second event indexing, <$0.02 gas/tx.
+Platform, DevOps & Infrastructure
+• Haskify: Unified k3s cluster as the single hosting platform for every product. HPA + Openobservability by default. New-product onboarding dropped from ~3 days to a single deploy (~10 min); ~40% lower compute overhead vs full k8s.
+• Hima: Consulted on a 50k-DAU launch architecture: DOKS + HA Managed PostgreSQL + Go + Angular. Hit 50k-DAU and 99.9% uptime at ~50% lower monthly cost than AWS EKS + RDS Multi-AZ.
+• Taibah TMC: Hackathon platform with Grafana Alloy + Faro live tracing; zero downtime through the event.
+Frontend & Mobile
+• TechGains: Bilingual Arabic/English Flutter fitness app with full RTL; unlocked MENA market entry.
+• Thalathah: Merchant-facing dashboard for SEO and conversion analytics alongside the AR storefront.
+Stack: Go, Rust, Python, C#, Java, PHP, Node.js, Zig · TypeScript/React/Next.js/Vue/Nuxt/Svelte · Kotlin Multiplatform, Flutter, SwiftUI, React Native · Kubernetes (k3s), Docker, RabbitMQ, PostgreSQL, Redis, OpenTelemetry · RAG, LangChain, n8n.
+Certified Pentester (Hackviser CAPT, 2025) + KAUST Cyber Security alum. I build with the attacker in mind.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hassan-alkuheli/) 
