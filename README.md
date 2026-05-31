@@ -4,16 +4,25 @@ SWE at Haskify. I build production systems where backend performance, infrastruc
 SWE at Haskify. I build production systems where backend performance, infrastructure reliability, and frontend polish all need to be measurable.
 Backend
 • Binance AMG: HFT engine at 20K trades/sec; NumPy backtester 3x faster. Earlier: transformer NLP pipeline turning Telegram signals into live orders at 98% accuracy, sub-ms latency.
+
 • Burhan: Zero-loss media pipeline in Zig + Rust + RabbitMQ + MinIO at 99.9% availability. Full Zero-to-One AI SaaS converting 2D images to AR-ready 3D models for Salla.
+
 • SIT: Led wavee end-to-end; salon-marketplace MVP delivered 3 weeks early, hardened against SQLi/XSS/CSRF for ~95% lower security exposure.
+
 • Nil Protocol: Full-stack DeFi vault on Arbitrum Sepolia (Solidity + Rust/Axum). 12/12 tests, sub-second event indexing, <$0.02 gas/tx.
 Platform, DevOps & Infrastructure
+
 • Haskify: Unified k3s cluster as the single hosting platform for every product. HPA + Openobservability by default. New-product onboarding dropped from ~3 days to a single deploy (~10 min); ~40% lower compute overhead vs full k8s.
+
 • Hima: Consulted on a 50k-DAU launch architecture: DOKS + HA Managed PostgreSQL + Go + Angular. Hit 50k-DAU and 99.9% uptime at ~50% lower monthly cost than AWS EKS + RDS Multi-AZ.
+
 • Taibah TMC: Hackathon platform with Grafana Alloy + Faro live tracing; zero downtime through the event.
 Frontend & Mobile
+
 • TechGains: Bilingual Arabic/English Flutter fitness app with full RTL; unlocked MENA market entry.
+
 • Thalathah: Merchant-facing dashboard for SEO and conversion analytics alongside the AR storefront.
+
 Stack: Go, Rust, Python, C#, Java, PHP, Node.js, Zig · TypeScript/React/Next.js/Vue/Nuxt/Svelte · Kotlin Multiplatform, Flutter, SwiftUI, React Native · Kubernetes (k3s), Docker, RabbitMQ, PostgreSQL, Redis, OpenTelemetry · RAG, LangChain, n8n.
 Certified Pentester (Hackviser CAPT, 2025) + KAUST Cyber Security alum. I build with the attacker in mind.
 ## Socials:
