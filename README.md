@@ -1,5 +1,5 @@
 # About Me:
-CTO at Mudawwan. I build production systems where backend performance, infrastructure reliability, and frontend polish all need to be measurable.
+SWE at Haskify. I build production systems where backend performance, infrastructure reliability, and frontend polish all need to be measurable.
 
 Backend
 
